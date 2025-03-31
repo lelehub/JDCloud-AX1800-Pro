@@ -1,0 +1,7 @@
+
+1、系统→文件传输→选择文件`expand_overlay.sh`上传脚本
+
+2、打开TTYD终端运行：chmod +x /tmp/upload/expand_overlay.sh && /tmp/upload/expand_overlay.sh
+
+
+来源公众号：猫点饭
